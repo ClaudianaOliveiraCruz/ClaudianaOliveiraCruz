@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**ClaudianaOliveiraCruz/ClaudianaOliveiraCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Maria Claudiana Oliveira Cruz
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Formada como Tecnóloga em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
+
+- Formada como Técnica em Informática pela EEEP Jose Vidal Alves.
+
+- Atualmente estou desenvolvendo minhas habilidades tecnologicas para somar a minha carreira profissional.
+
+------------
+
+## Contato
+
+[![DIO](https://img.shields.io/badge/-Dio-333333?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/users/claudianacruz017)         [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiana-cruz/)  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ClaudianaOliveiraCruz)
